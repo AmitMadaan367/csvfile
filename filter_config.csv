@@ -1,0 +1,85 @@
+tagId,tagName,legendID,legendName
+1,finance,0,N/A
+1,finance,1,Bootstrap
+1,finance,2,Angels
+1,finance,3,Round A
+1,finance,4,Round B
+1,finance,5,Mature/ Profitable
+2,sales,0,N/A
+2,sales,1,>1
+2,sales,2,>1-5
+2,sales,3,>5-10
+2,sales,4,>10-50
+2,sales,5,>50>
+3,hr,0,N/A
+3,hr,1,1-10
+3,hr,2,10-50
+3,hr,3,51-200
+3,hr,4,200-500
+3,hr,5,500>
+4,product,0,N/A
+4,product,1,R&D
+4,product,2,Beta-site
+4,product,3,Release
+4,product,4,Mature
+4,product,5,Product Range
+5,Strategy ,0,N/A
+5,Strategy ,1,Awareness
+5,Strategy ,2,Collaboration
+5,Strategy ,3,Sales
+5,Strategy ,4,Brand
+5,Strategy ,5,M&A
+6,marketing ,0,N/A
+6,marketing ,1,Traffic
+6,marketing ,2,Conversion
+6,marketing ,3,MAU
+6,marketing ,4,LTV
+6,marketing ,5,Ind. Standard
+7,scope,0,N/A
+7,scope,1,Supplementary
+7,scope,2,Closed garden
+7,scope,3,API
+7,scope,4,Open-Source
+7,scope,5,Network
+8,geography ,0,N/A
+8,geography ,1,local
+8,geography ,2,limited number of countries
+8,geography ,3,continent
+8,geography ,4,global
+8,geography ,5,5
+9,businesslifecycle ,0,N/A
+9,businesslifecycle ,1,Launch
+9,businesslifecycle ,2,Growth
+9,businesslifecycle ,3,shakeout
+9,businesslifecycle ,4,Mature
+9,businesslifecycle ,5,decline
+10,patents,0,N/A
+10,patents,1,N/A
+10,patents,2,N/A
+10,patents,3,N/A
+10,patents,4,N/A
+10,patents,5,N/A
+11,traffic/media ,0,N/A
+11,traffic/media ,1,N/A
+11,traffic/media ,2,N/A
+11,traffic/media ,3,N/A
+11,traffic/media ,4,N/A
+11,traffic/media ,5,N/A
+12,reviews ,0,N/A
+12,reviews ,1,N/A
+12,reviews ,2,N/A
+12,reviews ,3,N/A
+12,reviews ,4,N/A
+12,reviews ,5,N/A
+13,investors type ,0,N/A
+13,investors type ,1,N/A
+13,investors type ,2,N/A
+13,investors type ,3,N/A
+13,investors type ,4,N/A
+13,investors type ,5,N/A
+14,number of investors ,0,N/A
+14,number of investors ,1,N/A
+14,number of investors ,2,N/A
+14,number of investors ,3,N/A
+14,number of investors ,4,N/A
+14,number of investors ,5,N/A
